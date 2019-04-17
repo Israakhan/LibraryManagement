@@ -15,7 +15,7 @@ public class BatchBean {
         private String shift;
         private String groupDesc;
         private String remarks;
-        
+        //batch bean
         
         public void setProgId(int progId){
                 this.progId=progId;
